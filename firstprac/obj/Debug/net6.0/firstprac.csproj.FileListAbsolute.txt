@@ -1,0 +1,15 @@
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.csproj.AssemblyReference.cache
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.AssemblyInfoInputs.cache
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.AssemblyInfo.cs
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.csproj.CoreCompileInputs.cache
+C:\Users\79671\source\repos\firstprac\firstprac\bin\Debug\net6.0\firstprac.exe
+C:\Users\79671\source\repos\firstprac\firstprac\bin\Debug\net6.0\firstprac.deps.json
+C:\Users\79671\source\repos\firstprac\firstprac\bin\Debug\net6.0\firstprac.runtimeconfig.json
+C:\Users\79671\source\repos\firstprac\firstprac\bin\Debug\net6.0\firstprac.dll
+C:\Users\79671\source\repos\firstprac\firstprac\bin\Debug\net6.0\firstprac.pdb
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.dll
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\refint\firstprac.dll
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.pdb
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\firstprac.genruntimeconfig.cache
+C:\Users\79671\source\repos\firstprac\firstprac\obj\Debug\net6.0\ref\firstprac.dll
